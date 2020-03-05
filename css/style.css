@@ -1,0 +1,31 @@
+.padding{
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 40px;
+    padding-left: 80px;
+    
+}
+
+.padding2{
+    padding-top: 25px;
+    padding-right: 150px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    
+}
+
+.kotak{
+    list-style-type: square;
+}
+
+.serif{
+    font-family: 'Bree Serif', serif;
+}
+.sans{
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.tebalin {
+    border-width: 2px;
+
+}
